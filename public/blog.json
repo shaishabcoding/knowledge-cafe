@@ -1,52 +1,42 @@
 [
   {
-    "id": "1",
-    "cover": "https://example.com/cover1.jpg",
-    "title": "The Essential Guide to JavaScript",
-    "author": "Alice Smith",
-    "author_img": "https://example.com/author1.jpg",
-    "posted_date": "2024-03-13",
+    "id": 1,
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "title": "Top 10 ES6 Features You Must Know",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "author": "Hamza Sohail",
+    "posted_date": "September 15, 2023",
+    "reading_time": 5,
+    "hashtags": ["beginners", "es6"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+    "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+    "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+    "author": "Sajal Ali",
+    "posted_date": "August 28, 2023",
+    "reading_time": 4,
+    "hashtags": ["javascript", "coding", "dev"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/RzGzcPg/3.png",
+    "title": "Component lifecycle in React Class component vs Functional component",
+    "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+    "author": "Feroze Khan",
+    "posted_date": "July 10, 2023",
     "reading_time": 10,
-    "hashtags": ["#JavaScript", "#WebDevelopment", "#Programming"]
+    "hashtags": ["mid_level", "react"]
   },
   {
-    "id": "2",
-    "cover": "https://example.com/cover2.jpg",
-    "title": "JavaScript for Beginners",
-    "author": "Bob Johnson",
-    "author_img": "https://example.com/author2.jpg",
-    "posted_date": "2024-03-12",
-    "reading_time": 15,
-    "hashtags": ["#JavaScript", "#Coding", "#Learning"]
-  },
-  {
-    "id": "3",
-    "cover": "https://example.com/cover3.jpg",
-    "title": "Advanced JavaScript Techniques",
-    "author": "Charlie Brown",
-    "author_img": "https://example.com/author3.jpg",
-    "posted_date": "2024-03-11",
-    "reading_time": 20,
-    "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
-  },
-  {
-    "id": "4",
-    "cover": "https://example.com/cover4.jpg",
-    "title": "JavaScript Frameworks Comparison",
-    "author": "Diana Green",
-    "author_img": "https://example.com/author4.jpg",
-    "posted_date": "2024-03-10",
-    "reading_time": 12,
-    "hashtags": ["#JavaScript", "#Frameworks", "#Comparison"]
-  },
-  {
-    "id": "5",
-    "cover": "https://example.com/cover5.jpg",
-    "title": "Optimizing Performance in JavaScript",
-    "author": "Ethan White",
-    "author_img": "https://example.com/author5.jpg",
-    "posted_date": "2024-03-09",
-    "reading_time": 18,
-    "hashtags": ["#JavaScript", "#Performance", "#Optimization"]
+    "id": 4,
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+    "title": "Free images and resources collection for website",
+    "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+    "author": "Anmol Baloch",
+    "posted_date": "June 5, 2023",
+    "reading_time": 9,
+    "hashtags": ["development", "resources"]
   }
 ]
